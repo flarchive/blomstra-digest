@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of blomstra/digest.** Not for installation: use [Packagist](https://packagist.org/packages/blomstra/digest) or the [upstream repository](https://github.com/blomstra/flarum-ext-digest).
 
-**0** versions archived · Latest: [`0.1.0-beta.11.7`](https://github.com/flarchive/blomstra-digest/tree/archive/v0.1.0-beta.11.7) · License: `MIT` · Flarum: `^1.2.0`
+**18** versions archived · Latest: [`0.1.0-beta.11.7`](https://github.com/flarchive/blomstra-digest/tree/archive/v0.1.0-beta.11.7) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0-beta.1` | 2022-04-29 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-digest/tree/archive/v0.1.0-beta.1) |
+| `0.1.0-beta.10` | 2023-02-09 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-digest/tree/archive/v0.1.0-beta.10) |
+| `0.1.0-beta.11` | 2023-08-31 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-digest/tree/archive/v0.1.0-beta.11) |
+| `0.1.0-beta.11.1` | 2023-10-16 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-digest/tree/archive/v0.1.0-beta.11.1) |
+| `0.1.0-beta.11.2` | 2023-10-20 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-digest/tree/archive/v0.1.0-beta.11.2) |
+| `0.1.0-beta.11.3` | 2023-11-11 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-digest/tree/archive/v0.1.0-beta.11.3) |
+| `0.1.0-beta.11.4` | 2023-11-11 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-digest/tree/archive/v0.1.0-beta.11.4) |
+| `0.1.0-beta.11.5` | 2023-11-11 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-digest/tree/archive/v0.1.0-beta.11.5) |
+| `0.1.0-beta.11.6` | 2023-11-30 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-digest/tree/archive/v0.1.0-beta.11.6) |
+| `0.1.0-beta.11.7` | 2023-12-08 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-digest/tree/archive/v0.1.0-beta.11.7) |
+
+[View all 18 versions](https://github.com/flarchive/blomstra-digest/tags)
 
 Catalog entry: [packages/blomstra-digest.json](https://github.com/flarchive/archive-index/blob/main/packages/blomstra-digest.json)
 
